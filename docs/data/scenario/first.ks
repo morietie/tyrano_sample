@@ -1,23 +1,34 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="転生したら量子になった"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「転生したら量子になった」[l][r]
 
-メロスは激怒した。[l][r]
+僕は素粒子の研究者。[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+今日も楽しい実験をしようかな！[l][r]
+
+やべ、核分裂反応が止まらない！！！[l][r]
+
+うわあああああーーーーー！！！！[l][r]
 
 (中略)[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+[cm]
+
+
+.......[l][r]
+
+ここはどこだ...[l][r]
+
+俺は量子になったのか[l][r]
+
+[link target=*tag_sleep] →観測されたい[endlink][r]
+[link target=*tag_run] →観測されたくない[endlink][r]
 [s]
 
 *tag_sleep
@@ -26,10 +37,10 @@
 
 [bg storage=sleep.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+位置が確定し、自分の存在を証明できた.[l][r]
 
-【 BAD END 】[l][cm]
+
+【 good 】[l][cm]
 
 [jump target=*start]
 
@@ -38,9 +49,7 @@
 [bg storage=run.jpg time=500]
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
-
-【 GOOD END 】[l][cm]
+確定されないまま、確率の波のなかで一生を過ごすことになった[l][r]
+【 BAD】[l][cm]
 
 [jump target=*start]
